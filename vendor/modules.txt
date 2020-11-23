@@ -1,0 +1,6 @@
+# github.com/apsdehal/go-logger v0.0.0-20190515212710-b0d6ccfee0e6
+## explicit
+github.com/apsdehal/go-logger
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
